@@ -1,10 +1,10 @@
 
 ---
 
-# **Meat Classification with Custom Neural Network and Augmentation**
+# **Meat Classification with Custom Machine Learning Model and Augmentation**
 
 ## **Project Overview**
-This project implements a deep learning model to classify meat images into three categories: **pork**, **horse**, and **beef**. The approach utilizes a custom convolutional neural network with an innovative **Push-Pull Convolutional Unit**. It also evaluates the model on both original and augmented datasets to test its robustness under realistic conditions.
+This project implements a machine learning model to classify meat images into three categories: **pork**, **horse**, and **beef**. The approach utilizes a custom convolutional neural network with an innovative **Push-Pull Convolutional Unit**. It also evaluates the model on both original and augmented datasets to test its robustness under realistic conditions.
 
 ---
 
