@@ -59,7 +59,7 @@ dataset/
 Each subfolder should contain images of the respective meat type.
 
 ### **4. Augmented Dataset**
-Place augmented images (if available) in the `augmented_dataset` directory following the same structure as the `dataset`.
+Use augmentation.py for your dataset to augmentate the images in your dataset.
 
 ### **5. Run Training**
 To train the model, execute:
