@@ -64,7 +64,7 @@ Use augmentation.py for your dataset to augmentate the images in your dataset.
 ### **5. Run Training**
 To train the model, execute:
 ```bash
-python MeatClassifier.py
+python modeltrain.py
 ```
 
 ---
